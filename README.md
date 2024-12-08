@@ -1,6 +1,9 @@
 Demo
 
 Check out the live demo here.
+
+https://atlegapeople.github.io/omnipage/
+
 Installation
 
 To run the project locally, follow these steps:
